@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">H19</string>
+    <string name="title_please_wait">Please wait</string>
+    <string name="title_loading">Loading..</string>
+    <string name="title_try_again">Try Again</string>
+    <string name="title_swipe_refresh">Pull to refresh</string>
+    <string name="title_error">Error</string>
+    <string name="title_ok">Ok</string>
+    <string name="title_description">Description</string>
+    <string name="title_comics">Comics</string>
+    <string name="title_series">Series</string>
+    <string name="title_events">Events</string>
+    <string name="title_related_links">Related Links</string>
+    <string name="description">No description provided.</string>
+    <string name="title_stories">Stories</string>
+    <string name="search_hint">Search character</string>
+    <string name="search_title">Search</string>
+    <string name="title_empty">Empty</string>
+</resources>
